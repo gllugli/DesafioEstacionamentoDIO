@@ -1,0 +1,15 @@
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\bin\Debug\net9.0\DesafioEstacionamentoDIO.exe
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\bin\Debug\net9.0\DesafioEstacionamentoDIO.deps.json
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\bin\Debug\net9.0\DesafioEstacionamentoDIO.runtimeconfig.json
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\bin\Debug\net9.0\DesafioEstacionamentoDIO.dll
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\bin\Debug\net9.0\DesafioEstacionamentoDIO.pdb
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\obj\Debug\net9.0\DesafioEstacionamentoDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\obj\Debug\net9.0\DesafioEstacionamentoDIO.AssemblyInfoInputs.cache
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\obj\Debug\net9.0\DesafioEstacionamentoDIO.AssemblyInfo.cs
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\obj\Debug\net9.0\DesafioEstacionamentoDIO.csproj.CoreCompileInputs.cache
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\obj\Debug\net9.0\DesafioEstacionamentoDIO.sourcelink.json
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\obj\Debug\net9.0\DesafioEstacionamentoDIO.dll
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\obj\Debug\net9.0\refint\DesafioEstacionamentoDIO.dll
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\obj\Debug\net9.0\DesafioEstacionamentoDIO.pdb
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\obj\Debug\net9.0\DesafioEstacionamentoDIO.genruntimeconfig.cache
+C:\Users\glarl\OneDrive\Desktop\ExemplosProjetos\DesafioEstacionamentoDIO\obj\Debug\net9.0\ref\DesafioEstacionamentoDIO.dll
