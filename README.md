@@ -1,2 +1,2 @@
-# desafio-estacionamento-c-
+# DesafioEstacionamentoDIO
 Desafio proposto na Formação .Net Developer
